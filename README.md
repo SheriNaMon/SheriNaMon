@@ -1,20 +1,17 @@
-### Hi there 👋
+Hi there 👋🏻
 
-<!--
-**SheriNaMon/SheriNaMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shervin / SheriNaMon. I am a Front-End Web Developer & UX Designer 👩🏻‍💻 and this is my Computer Coach profile example.
 
-# Hi there 👋! My Name Is Shervin / SheriNaMon. This is my Computer Coach Profile Example.
-####I Am A Front-End Web Developer & UX Designer
-![I am a front-end developer and designer](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80)
-#### I am a front-end developer who is...
+**SheriNaMon/SheriNaMon** is a ✨ _special_ ✨ repository because its `README.md`.
 
-Touring musician turned developer who is passionate about clean code and interactive apps. 
+![I am a front-end developer and designer](https://raw.githubusercontent.com/SheriNaMon/SheriNaMon/a93b25c703ad92bbac7e7d825dd1d0d23ca9dc9e/1.jpg)
+I am a front-end developer who is...
 
-Skills: REACT / JS / HTML / CSS / WORDPRESS / FIGMA / UX+UI 
-#### Skills: REACT / JS / HTML / CSS / WORDPRESS / FIGMA / UX+UI 
+A developer who is passionate about writing & cleaning code and interactive apps. 
 
-![I am a front-end developer and designer]([https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80](https://raw.githubusercontent.com/SheriNaMon/SheriNaMon/a93b25c703ad92bbac7e7d825dd1d0d23ca9dc9e/1.jpg))
+#### Skills: HTML / CSS / WORDPRESS / FIGMA / UX+UI 
 
+![I am a front-end developer and designer](https://raw.githubusercontent.com/SheriNaMon/SheriNaMon/a93b25c703ad92bbac7e7d825dd1d0d23ca9dc9e/devtools.gif)![I am a front-end developer and designer]
 
 - 🔭 I’m currently working on completing my Front-End Development Course with Computer Coach
 - 🌱 I’m most excited about learning React JS 
