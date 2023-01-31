@@ -11,7 +11,7 @@ A developer who is passionate about writing & cleaning code and interactive apps
 
 #### Skills: HTML / CSS / WORDPRESS / FIGMA / UX+UI 
 
-![I am a front-end developer and designer](https://raw.githubusercontent.com/SheriNaMon/SheriNaMon/a93b25c703ad92bbac7e7d825dd1d0d23ca9dc9e/devtools.gif)![I am a front-end developer and designer]
+![This is just an ALT text](https://raw.githubusercontent.com/SheriNaMon/SheriNaMon/a93b25c703ad92bbac7e7d825dd1d0d23ca9dc9e/devtools.gif)
 
 - 🔭 I’m currently working on completing my Front-End Development Course with Computer Coach
 - 🌱 I’m most excited about learning React JS 
